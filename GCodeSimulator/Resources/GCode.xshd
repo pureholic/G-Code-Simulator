@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<SyntaxDefinition name="GCode" extensions=".gcode;.nc;.txt" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
+
+	<!-- 색상 정의 -->
+	<Color name="GCommand" foreground="Blue" fontWeight="bold" />
+	<Color name="MCommand" foreground="Green" fontWeight="bold" />
+	<Color name="TCommand" foreground="DarkMagenta" fontWeight="bold" />
+	<Color name="Coordinate" foreground="Black" />
+	<Color name="FeedSpeed" foreground="DarkOrange" fontWeight="bold" />
+	<Color name="SpindleSpeed" foreground="DarkOrange" />
+	<Color name="Comment" foreground="Gray" fontStyle="italic" />
+	<Color name="Number" foreground="DarkBlue" />
+
+	<RuleSet ignoreCase="true">
+
+		<!-- G 코드 (G0, G00, G1, G01, G2, G3, G90, G91 등) -->
+		<Rule color="GCommand">
+			\bG\d+(\.\d+)?\b
+		</Rule>
+
+		<!-- M 코드 (M3, M03, M5, M6, M8, M9, M30 등) -->
+		<Rule color="MCommand">
+			\bM\d+(\.\d+)?\b
+		</Rule>
+
+		<!-- T 코드 (T1, T10 등 - 공구 번호) -->
+		<Rule color="TCommand">
+			\bT\d+\b
+		</Rule>
+
+		<!-- F 코드 (피드 속도) -->
+		<Rule color="FeedSpeed">
+			\bF\d+(\.\d+)?\b
+		</Rule>
+
+		<!-- S 코드 (스핀들 속도) -->
+		<Rule color="SpindleSpeed">
+			\bS\d+(\.\d+)?\b
+		</Rule>
+
+		<!-- X, Y, Z, I, J, K 좌표 -->
+		<Rule color="Coordinate">
+			\b[XYZIJK][-+]?\d*\.?\d+\b
+		</Rule>
+
+		<!-- 숫자 (단독) -->
+		<Rule color="Number">
+			\b\d+(\.\d+)?\b
+		</Rule>
+
+		<!-- 세미콜론 주석 (; 이후 줄 끝까지) -->
+		<Span color="Comment" begin=";" />
+
+		<!-- 괄호 주석 ((...)) -->
+		<Span color="Comment" begin="\(" end="\)" />
+
+	</RuleSet>
+
+</SyntaxDefinition>

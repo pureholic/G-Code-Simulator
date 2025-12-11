@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GCodeSimulator/1.0.0": {
+        "dependencies": {
+          "AvalonEdit": "6.3.0.90",
+          "HelixToolkit.Wpf": "2.25.0",
+          "IxMilia.Dxf": "0.8.4"
+        },
+        "runtime": {
+          "GCodeSimulator.dll": {}
+        }
+      },
+      "AvalonEdit/6.3.0.90": {
+        "runtime": {
+          "lib/net6.0-windows7.0/ICSharpCode.AvalonEdit.dll": {
+            "assemblyVersion": "6.3.0.90",
+            "fileVersion": "6.3.0.90"
+          }
+        }
+      },
+      "HelixToolkit.Wpf/2.25.0": {
+        "runtime": {
+          "lib/net462/HelixToolkit.Wpf.dll": {
+            "assemblyVersion": "2.25.0.0",
+            "fileVersion": "2.25.0.0"
+          }
+        }
+      },
+      "IxMilia.Dxf/0.8.4": {
+        "runtime": {
+          "lib/netstandard2.0/IxMilia.Dxf.dll": {
+            "assemblyVersion": "0.8.4.0",
+            "fileVersion": "0.8.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCodeSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AvalonEdit/6.3.0.90": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WVTb5MxwGqKdeasd3nG5udlV4t6OpvkFanziwI133K0/QJ5FvZmfzRQgpAjGTJhQfIA8GP7AzKQ3sTY9JOFk8Q==",
+      "path": "avalonedit/6.3.0.90",
+      "hashPath": "avalonedit.6.3.0.90.nupkg.sha512"
+    },
+    "HelixToolkit.Wpf/2.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eoMdrDgeSFo1JH15f2X/E5/nZUMAqvWzR8qcVzjLarCxR5qNleRqF+UHSzyCkvygeeDLCC/uharpD/gysFYuHw==",
+      "path": "helixtoolkit.wpf/2.25.0",
+      "hashPath": "helixtoolkit.wpf.2.25.0.nupkg.sha512"
+    },
+    "IxMilia.Dxf/0.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NTrAnCKMgaY0Tm/C1++rp9i+JGHkXL9vy7LjEimeqTOZMRsnyVEvcKksoMsMDyevQArm2epOJc4v+EWP8tSiPg==",
+      "path": "ixmilia.dxf/0.8.4",
+      "hashPath": "ixmilia.dxf.0.8.4.nupkg.sha512"
+    }
+  }
+}

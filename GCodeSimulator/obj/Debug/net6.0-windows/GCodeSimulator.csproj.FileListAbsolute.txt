@@ -1,0 +1,58 @@
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.csproj.AssemblyReference.cache
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator_MarkupCompile.cache
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator_MarkupCompile.lref
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\sample.gcode
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\sample_3d.gcode
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.exe
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.deps.json
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.runtimeconfig.json
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.pdb
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\IxMilia.Dxf.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\OxyPlot.Wpf.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\bin\Debug\net6.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.g.resources
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.AssemblyInfoInputs.cache
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.AssemblyInfo.cs
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.csproj.CoreCompileInputs.cache
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSim.A62F8FDE.Up2Date
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\refint\GCodeSimulator.dll
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.pdb
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.genruntimeconfig.cache
+C:\Users\timep\OneDrive\바탕 화면\G코드\GCodeSimulator\obj\Debug\net6.0-windows\ref\GCodeSimulator.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\sample.gcode
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\sample_3d.gcode
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.exe
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.deps.json
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.runtimeconfig.json
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\GCodeSimulator.pdb
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\HelixToolkit.Wpf.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\IxMilia.Dxf.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.csproj.AssemblyReference.cache
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\App.g.cs
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator_MarkupCompile.cache
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator_MarkupCompile.lref
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\MainWindow.baml
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.g.resources
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.AssemblyInfoInputs.cache
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.AssemblyInfo.cs
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.csproj.CoreCompileInputs.cache
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSim.A62F8FDE.Up2Date
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\refint\GCodeSimulator.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.pdb
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\GCodeSimulator.genruntimeconfig.cache
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\obj\Debug\net6.0-windows\ref\GCodeSimulator.dll
+D:\A00_Work\A01_PC_Program\G_Code\GCodeSimulator\bin\Debug\net6.0-windows\ICSharpCode.AvalonEdit.dll
